@@ -1,0 +1,40 @@
+@CHARSET "UTF-8";
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+.jumbotron{
+	padding-bottom:1em;
+}
+.well{
+	padding:2em;
+}
+
+div.well{
+	background-color:#FFFFEE;
+}
+div ul li{
+	background-color:#FFFFEE;
+	padding-left:1em;
+}
+.forumOptions{
+	float:right;
+}
+
+.listmenu{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color:#FFFFEE;
+}
+.menublock{
+	text-decoration: none;
+    display: block;
+}
+a.menu:hover{
+	background-color: #EEEEDD;
+	color: #888888;
+    display: block;
+}
+a.menu:link{
+    display: block;
+}
